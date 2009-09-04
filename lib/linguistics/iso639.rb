@@ -434,7 +434,7 @@ uzb      uz    Uzbek
 vai            Vai
 ven            Venda
 vie      vi    Vietnamese
-vol      vo    Volapük
+vol      vo    Volap\252k
 vot            Votic
 wak            Wakashan languages
 wal            Walamo
